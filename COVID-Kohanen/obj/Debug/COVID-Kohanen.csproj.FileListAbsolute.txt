@@ -1,0 +1,14 @@
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\bin\Debug\COVID-Kohanen.exe.config
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\bin\Debug\COVID-Kohanen.exe
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\bin\Debug\COVID-Kohanen.pdb
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID-Kohanen.csproj.AssemblyReference.cache
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID-Kohanen.csproj.SuggestedBindingRedirects.cache
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID_Kohanen.Form1.resources
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID_Kohanen.Properties.Resources.resources
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID-Kohanen.csproj.GenerateResource.cache
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID-Kohanen.csproj.CoreCompileInputs.cache
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID-Kohanen.exe
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID-Kohanen.pdb
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\bin\Debug\EPPlus.dll
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\bin\Debug\EPPlus.xml
+C:\Users\79994\source\repos\COVID-Kohanen\COVID-Kohanen\obj\Debug\COVID-Kohanen.csproj.CopyComplete
